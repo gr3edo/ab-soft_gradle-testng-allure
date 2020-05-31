@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-31T15:50:31 MSK" name="Gradle suite" finished-at="2020-05-31T15:50:41 MSK" duration-ms="10757">
+    <groups>
+    </groups>
+    <test started-at="2020-05-31T15:50:31 MSK" name="Gradle test" finished-at="2020-05-31T15:50:41 MSK" duration-ms="10757">
+      <class name="test.TagFilterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TagFilterTest@7dcd342f]" started-at="2020-05-31T15:50:31 MSK" name="setup" finished-at="2020-05-31T15:50:34 MSK" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="successfulTagFilter()[pri:0, instance:test.TagFilterTest@7dcd342f]" started-at="2020-05-31T15:50:34 MSK" name="successfulTagFilter" finished-at="2020-05-31T15:50:41 MSK" duration-ms="6953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulTagFilter -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test.TagFilterTest@7dcd342f]" started-at="2020-05-31T15:50:41 MSK" name="close" finished-at="2020-05-31T15:50:41 MSK" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.TagFilterTest -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
